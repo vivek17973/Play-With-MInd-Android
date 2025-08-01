@@ -13,7 +13,7 @@ This is the demo Android project with:
 - Leaderboard weekly bonus  
 - Streak reset on failure  
 - Watch & Earn (video ad reward)  
-- AdMob (Interstitial, Rewarded, Banner) integration points  
+- AdMob (ca-app-pub-2116638468766711/8253938033, ca-app-pub-2116638468766711/6836914588, ca-app-pub-2116638468766711/2016048349) integration points  
 - UPI withdrawal UI placeholder  
 
 ## 🛠️ लोकल बिल्ड कसं करायचं (Build locally)
